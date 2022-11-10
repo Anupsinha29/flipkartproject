@@ -15,6 +15,8 @@ public class SearchProductTest extends BaseClass {
 	@Test
 	public void searchProductTest()
 	{
+		//jk
+		
 		//Object creation of POM class
 		HomePage homePage=new HomePage(driver);
 		SearchedPage searchedPage=new SearchedPage(driver);
